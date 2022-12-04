@@ -14,3 +14,4 @@
    google-shell-styleguide/contents
    google-javascript-styleguide/contents
    google-typescript-styleguide/contents
+   google-python-styleguide-simforge/contents
